@@ -1,2 +1,2 @@
 # League.exeHistory
-history of all .exe gathered until now.
+history of all .exe gathered until now. :moneybag:
